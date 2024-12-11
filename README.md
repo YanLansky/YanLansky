@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://discord.gg/waawzqWYfU">
-  <img src="https://img.shields.io/badge/discord-Yan's%20HQ-blue?logo=discord">
+  <img src="https://img.shields.io/badge/Discord-Yan's%20HQ-blue?logo=discord">
   </a>
   <a href="https://www.instagram.com/yannadii_/">
   <img src="https://img.shields.io/badge/Instagram-%40yannadii%E2%96%81-E4405F">
